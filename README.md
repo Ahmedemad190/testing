@@ -101,8 +101,6 @@ when u are done with ur new branch u need to merge the branches by| git merge so
 | replace the version_name with yours to list the tags avaliable in the repo |  git tag |
 |if u done tagging push the tag to remote  |  git push origin <tag-name> |
 |fetch changes  | git pull <url>|
-| git stash  | command is used to temporarily save changes that you don't want to commit at the moment |assasasa
+| git stash  | command is used to temporarily save changes that you don't want to commit at the moment |
 | git stash pop |  to apply changes from last stash it's oppiste of git stash |
 
-
-aannn
