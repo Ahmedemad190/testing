@@ -1,7 +1,5 @@
 # GIT WORLD
 
-# CCNA_LABS
-here's some simple CCNA_Labs can make some network concepts clear  
 
 ## what is git ?
 VCS can handle s/w versions , which allow devs to contibute to the same project , __revert changes__ , collaborate to **create new feature**  
