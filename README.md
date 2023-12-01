@@ -49,6 +49,7 @@ if u get a blank space then u need to add ur remote by
 ```
 git remote add origin <repo_url>
 ```
+
 let's assume that u get an idea and u need to test it away from the original repo , so u need to create new branch with 
 ```
 git branch <Branch_name>
@@ -102,3 +103,6 @@ when u are done with ur new branch u need to merge the branches by| git merge so
 |fetch changes  | git pull <url>|
 | git stash  | command is used to temporarily save changes that you don't want to commit at the moment |assasasa
 | git stash pop |  to apply changes from last stash it's oppiste of git stash |
+
+
+aa
