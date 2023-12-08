@@ -5,7 +5,7 @@
 VCS can handle s/w versions , which allow devs to contibute to the same project , __revert changes__ , collaborate to **create new feature**  
 and it allows to __track the changes__
 
-# Befor git ? 
+# Before git ? 
 Devs use CVCS but those systemd had limitiaions and make a lot of backup of entire codeBase 
 ## now let's begin with the Concepts 
 
