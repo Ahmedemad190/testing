@@ -140,7 +140,9 @@ is a secure version of HTTP (Hypertext Transfer Protocol) used for secure commun
 
 Here's a brief overview of HTTPS:
 
-# Encryption :  It uses protocols like TLS or SSL to encrypt the data transmitted between the client (web browser) and the server. This encryption ensures that even if someone intercepts the communication, they would only see encrypted data, making it difficult to decipher.
+# Encryption : 
+
+It uses protocols like TLS or SSL to encrypt the data transmitted between the client (web browser) and the server. This encryption ensures that even if someone intercepts the communication, they would only see encrypted data, making it difficult to decipher.
 
 # Secure Data Transmission
   
