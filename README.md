@@ -107,7 +107,7 @@ when u are done with ur new branch u need to merge the branches by| git merge so
 
 # Essential protocols  
 
-http : It is an application layer protocol that allows for the transfer of various types of data, such as text, images, and multimedia, between clients and servers. 
+http : It is an application layer protocol that allows for the transfer of various types of data, such as text, images, and multimedia, between clients and servers. It works on __port 80__
 
 # Here are some features that HTTP has 
 - HTTP is stateless : mean any request from client to server is standalone request
@@ -135,5 +135,12 @@ HTTP responses include status codes that indicate the outcome of the request. Co
 
 - HTTPS (HTTP Secure) is a secure version of HTTP that uses encryption (usually TLS/SSL) to secure the data transmitted between the client and server. It helps protect against eavesdropping and tampering of the data during transit.
 
-## HTTPS 
+### HTTPS 
+is a secure version of HTTP (Hypertext Transfer Protocol) used for secure communication over a computer network 
 
+Here's a brief overview of HTTPS:
+
+# Encryption :  It uses protocols like TLS or SSL to encrypt the data transmitted between the client (web browser) and the server. This encryption ensures that even if someone intercepts the communication, they would only see encrypted data, making it difficult to decipher.
+
+# Secure Data Transmission
+  
