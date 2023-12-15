@@ -174,10 +174,10 @@ DNS servers store information about domain names and their corresponding IP addr
 - TLD DNS Servers: Handle information about top-level domains.
 - Authoritative DNS Servers: Store specific domain information
 # caching 
-- To improve efficiency and reduce the load on DNS servers, DNS resolvers and clients often cache DNS responses. Cached information can be used to quickly resolve subsequent requests for the same domain.
+- To improve efficiency and reduce the load on DNS servers, DNS resolvers and clients often cache DNS responses Cached information can be used to quickly resolve subsequent requests for the same domain.
 
 # DNS Records:
-DNS records are data entries associated with domain names. Common types of DNS records include:
+DNS records are data entries associated with domain names Common types of DNS records include:
 
 - A (Address) Record : Maps a domain to an IPv4 address.
 - CNAME : Alias of one domain to another.
@@ -186,14 +186,13 @@ DNS records are data entries associated with domain names. Common types of DNS r
 
 # :warning:   SSL  
 
-SSL stands for Secure Sockets Layer. It is a standard technology used to establish a secure and encrypted link between a web server and a web browser. SSL ensures that the data transmitted between the web server and the browser remains private and secure, protecting it from potential eavesdropping or tampering. SSL prevents unauthorized access to data by encrypting it while it is transferred between the user's browser and the server. This is especially crucial when sending sensitive information over the internet, such credit card numbers, login credentials, or personal data.
-
+SSL stands for Secure Sockets Layer. It is a standard technology used to establish a secure and encrypted link between a web server and a web browser. SSL ensures that the data transmitted between the web server and the browser remains private and secure, protecting it from potential eavesdropping or tampering  SSL prevents unauthorized access to data by encrypting it while it is transferred between the user's browser and the server. This is especially crucial when sending sensitive information over the internet, such credit card numbers, login credentials, or personal data.
 
 # :warning: TLS 
 
-TLS stands for Transport Layer Security. It is a cryptographic protocol designed to secure communication over a computer network. TLS evolved from its predecessor, SSL (Secure Sockets Layer), and is a more modern and secure version. 
+TLS stands for Transport Layer Security It is a cryptographic protocol designed to secure communication over a computer network. TLS evolved from its predecessor, SSL (Secure Sockets Layer), and is a more modern and secure version. 
 Ensuring data integrity and privacy between two communicating applications is the main goal of TLS.
 
 - Features of TLS :
-- Encryption:TLS uses encryption algorithms to encode the data transmitted between the client and server. This helps protect sensitive information from eavesdropping.
+- Encryption:TLS uses encryption algorithms to encode the data transmitted between the client and server This helps protect sensitive information from eavesdropping.
 - Authentication: TLS supports various methods for authenticating the identities of the communicating parties. This helps ensure that users are connecting to legitimate servers and not falling victim to man-in-the-middle attacks.
