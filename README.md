@@ -189,5 +189,11 @@ DNS records are data entries associated with domain names. Common types of DNS r
 SSL stands for Secure Sockets Layer. It is a standard technology used to establish a secure and encrypted link between a web server and a web browser. SSL ensures that the data transmitted between the web server and the browser remains private and secure, protecting it from potential eavesdropping or tampering. SSL prevents unauthorized access to data by encrypting it while it is transferred between the user's browser and the server. This is especially crucial when sending sensitive information over the internet, such credit card numbers, login credentials, or personal data.
 
 
+# :warning: TLS 
 
+TLS stands for Transport Layer Security. It is a cryptographic protocol designed to secure communication over a computer network. TLS evolved from its predecessor, SSL (Secure Sockets Layer), and is a more modern and secure version. 
+Ensuring data integrity and privacy between two communicating applications is the main goal of TLS.
 
+- Features of TLS :
+- Encryption:TLS uses encryption algorithms to encode the data transmitted between the client and server. This helps protect sensitive information from eavesdropping.
+- Authentication: TLS supports various methods for authenticating the identities of the communicating parties. This helps ensure that users are connecting to legitimate servers and not falling victim to man-in-the-middle attacks.
