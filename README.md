@@ -109,7 +109,7 @@ when u are done with ur new branch u need to merge the branches by| git merge so
 
 http : It is an application layer protocol that allows for the transfer of various types of data, such as text, images, and multimedia, between clients and servers. It works on __port 80__
 
-# Here are some features that HTTP has 
+# :warning: Here are some features that HTTP has 
 - HTTP is stateless : mean any request from client to server is standalone request
 - HTTP methods :
 
@@ -135,7 +135,7 @@ HTTP responses include status codes that indicate the outcome of the request. Co
 
 - HTTPS (HTTP Secure) is a secure version of HTTP that uses encryption (usually TLS/SSL) to secure the data transmitted between the client and server. It helps protect against eavesdropping and tampering of the data during transit.
 
-# HTTPS 
+# :warning: HTTPS 
 is a secure version of HTTP (Hypertext Transfer Protocol) used for secure communication over a computer network __uses port 443__
 
 Here's a brief overview of HTTPS:
