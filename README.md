@@ -121,28 +121,32 @@ PUT: Update a resource or create a new resource if it does not exist.
 
 DELETE: Request the removal of a resource.
 
-# Headers:
+## Headers:
 Both requests and responses include headers, which provide additional information about the request or response. Headers can include details like content type, length, date, and more
 
-# Status Codes:
+## Status Codes:
 HTTP responses include status codes that indicate the outcome of the request. Common status codes include . 
 - 2xx: Success
 - 3xx: Redirection
 - 4xx: Client errors (e.g., 404 for "Not Found")
 - 5xx: Server errors (e.g., 500 for "Internal Server Error")  
 
-# security 
+## security 
 
 - HTTPS (HTTP Secure) is a secure version of HTTP that uses encryption (usually TLS/SSL) to secure the data transmitted between the client and server. It helps protect against eavesdropping and tampering of the data during transit.
 
-## HTTPS 
-is a secure version of HTTP (Hypertext Transfer Protocol) used for secure communication over a computer network 
+# HTTPS 
+is a secure version of HTTP (Hypertext Transfer Protocol) used for secure communication over a computer network __uses port 443__
 
 Here's a brief overview of HTTPS:
 
-# Encryption : 
+## Encryption : 
 
-It uses protocols like TLS or SSL to encrypt the data transmitted between the client (web browser) and the server. This encryption ensures that even if someone intercepts the communication, they would only see encrypted data, making it difficult to decipher.
+- It uses protocols like TLS or SSL to encrypt the data transmitted between the client (web browser) and the server. This encryption ensures that even if someone intercepts the communication, they would only see encrypted data, making it difficult to decipher.
 
-# Secure Data Transmission
-  
+## Secure Data Transmission
+
+- HTTPS is designed to provide a secure channel for the transmission of sensitive information.
+
+# Required for Modern Web Security Standards   
+The usage of HTTPS is encouraged or mandated by numerous contemporary web security best practices and standards. For instance, in order to comply with security regulations, websites that handle sensitive data or integrate with payment systems frequently need to use HTTPS.
