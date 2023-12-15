@@ -130,3 +130,7 @@ HTTP responses include status codes that indicate the outcome of the request. Co
 - 3xx: Redirection
 - 4xx: Client errors (e.g., 404 for "Not Found")
 - 5xx: Server errors (e.g., 500 for "Internal Server Error")  
+
+# security 
+
+- HTTPS (HTTP Secure) is a secure version of HTTP that uses encryption (usually TLS/SSL) to secure the data transmitted between the client and server. It helps protect against eavesdropping and tampering of the data during transit.
