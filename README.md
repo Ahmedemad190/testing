@@ -121,6 +121,9 @@ PUT: Update a resource or create a new resource if it does not exist.
 
 DELETE: Request the removal of a resource.
 
-
 # Headers:
 Both requests and responses include headers, which provide additional information about the request or response. Headers can include details like content type, length, date, and more
+- 2xx: Success
+- 3xx: Redirection
+- 4xx: Client errors (e.g., 404 for "Not Found")
+- 5xx: Server errors (e.g., 500 for "Internal Server Error")  
