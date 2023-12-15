@@ -164,3 +164,12 @@ IP addresses are numerical labels assigned to devices on a network.
 
 - Hierarchy :
 The DNS hierarchy is organized into levels. The rightmost label of a domain is the top-level domain (TLD), such as ".com" or ".org." The next label to the left is the second-level domain (SLD), and so on. For example, in "www.example.com," ".com" is the TLD, "example" is the SLD, and "www" is a subdomain.
+
+- DNS Resolution Process:
+When you enter a domain name in a web browser, your device initiates a DNS resolution process to find the corresponding IP address. The process involves multiple steps, including querying DNS servers, starting from the root DNS servers, then moving to TLD servers, and finally reaching authoritative DNS servers for the specific domain.
+- DNS Servers:
+DNS servers store information about domain names and their corresponding IP addresses.
+- Root DNS Servers: The starting point of the DNS hierarchy.
+- TLD DNS Servers: Handle information about top-level domains.
+- Authoritative DNS Servers: Store specific domain information
+
