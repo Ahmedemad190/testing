@@ -196,3 +196,24 @@ Ensuring data integrity and privacy between two communicating applications is th
 - Features of TLS :
 - Encryption:TLS uses encryption algorithms to encode the data transmitted between the client and server This helps protect sensitive information from eavesdropping.
 - Authentication: TLS supports various methods for authenticating the identities of the communicating parties. This helps ensure that users are connecting to legitimate servers and not falling victim to man-in-the-middle attacks.
+## :warning: What is OSI model ? 
+is a reference framework that explains the process of transmitting data between computers. It is divided into seven layers that work together to carry out specialised network functions, allowing for a more systematic approach to networking.
+
+- Physical Layer – Layer 1
+The lowest layer of the OSI reference model is the physical layer. It is responsible for the actual physical connection between the devices. The physical layer contains information in the form of bits. It is responsible for transmitting individual bits from one node to the next. When receiving data, this layer will get the signal received and convert it into 0s and 1s and send them to the Data Link layer, which will put the frame back together.
+- Data Link Layer – Layer 2
+The data link layer is responsible for the node-to-node delivery of the message. The main function of this layer is to make sure data transfer is error-free from one node to another, over the physical layer. When a packet arrives in a network, it is the responsibility of the DLL to transmit it to the Host using its MAC address. 
+- Network Layer – Layer 3
+ The network layer works for the transmission of data from one host to the other located in different networks. It also takes care of packet routing i.e. selection of the shortest path to transmit the packet, from the number of routes available. The sender & receiver’s IP addresses are placed in the header by the network layer. __used protopcls__ ip,icmp
+
+- Transport Layer – Layer 4
+The transport layer provides services to the application layer and takes services from the network layer. The data in the transport layer is referred to as Segments. It is responsible for the End to End Delivery of the complete message. The transport layer also provides the acknowledgment of the successful data transmission and re-transmits the data if an error is found. __used protocols__ TCP,UDP 
+
+- Session Layer – Layer 5
+This layer is responsible for the establishment of connection, maintenance of sessions, and authentication, and also ensures security. 
+
+- Presentation Layer – Layer 6
+The presentation layer is also called the Translation layer. The data from the application layer is extracted here and manipulated as per the required format to transmit over the network. ___used protocols__ SSL/TLS
+
+- Application Layer – Layer 7
+At the very top of the OSI Reference Model stack of layers, we find the Application layer which is implemented by the network applications. These applications produce the data, which has to be transferred over the network. This layer also serves as a window for the application services to access the network and for displaying the received information to the user ___used protols___ SMTP HTTP 
