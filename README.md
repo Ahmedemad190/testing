@@ -105,5 +105,7 @@ when u are done with ur new branch u need to merge the branches by| git merge so
 | git stash pop |  to apply changes from last stash it's oppiste of git stash |
 
 
-## Essential protocols  
-------------------------------
+# Essential protocols  
+http : It is an application layer protocol that allows for the transfer of various types of data, such as text, images, and multimedia, between clients and servers. 
+
+# Here are some features that HTTP has 
