@@ -104,3 +104,6 @@ when u are done with ur new branch u need to merge the branches by| git merge so
 | git stash  | command is used to temporarily save changes that you don't want to commit at the moment |
 | git stash pop |  to apply changes from last stash it's oppiste of git stash |
 
+
+## Essential protocols  
+------------------------------
