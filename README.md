@@ -152,3 +152,15 @@ Here's a brief overview of HTTPS:
 - The usage of HTTPS is encouraged or mandated by numerous contemporary web security best practices and standards. For instance, in order to comply with security regulations, websites that handle sensitive data or integrate with payment systems frequently need to use HTTPS.
   
 # :speaking_head: DNS
+
+DNS, or Domain Name System, is a hierarchical and distributed naming system that translates human-readable domain names into IP addresses, allowing users to access resources on the internet using easily memorable names instead of numerical IP addresses.
+
+- Domain Names:
+
+Domain names are human-friendly labels used to identify resources on the internet. For example, "www.example.com" is a domain name. Each domain name corresponds to a unique IP address.
+
+- IP Addresses:
+IP addresses are numerical labels assigned to devices on a network.
+
+- Hierarchy :
+The DNS hierarchy is organized into levels. The rightmost label of a domain is the top-level domain (TLD), such as ".com" or ".org." The next label to the left is the second-level domain (SLD), and so on. For example, in "www.example.com," ".com" is the TLD, "example" is the SLD, and "www" is a subdomain.
