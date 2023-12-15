@@ -149,4 +149,5 @@ Here's a brief overview of HTTPS:
 - HTTPS is designed to provide a secure channel for the transmission of sensitive information.
 
 # Required for Modern Web Security Standards   
-The usage of HTTPS is encouraged or mandated by numerous contemporary web security best practices and standards. For instance, in order to comply with security regulations, websites that handle sensitive data or integrate with payment systems frequently need to use HTTPS.
+- The usage of HTTPS is encouraged or mandated by numerous contemporary web security best practices and standards. For instance, in order to comply with security regulations, websites that handle sensitive data or integrate with payment systems frequently need to use HTTPS.
+:caution: DNS
