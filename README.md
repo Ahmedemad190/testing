@@ -123,6 +123,9 @@ DELETE: Request the removal of a resource.
 
 # Headers:
 Both requests and responses include headers, which provide additional information about the request or response. Headers can include details like content type, length, date, and more
+
+# Status Codes:
+HTTP responses include status codes that indicate the outcome of the request. Common status codes include . 
 - 2xx: Success
 - 3xx: Redirection
 - 4xx: Client errors (e.g., 404 for "Not Found")
