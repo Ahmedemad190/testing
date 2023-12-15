@@ -135,7 +135,7 @@ HTTP responses include status codes that indicate the outcome of the request. Co
 
 - HTTPS (HTTP Secure) is a secure version of HTTP that uses encryption (usually TLS/SSL) to secure the data transmitted between the client and server. It helps protect against eavesdropping and tampering of the data during transit.
 
-### HTTPS 
+## HTTPS 
 is a secure version of HTTP (Hypertext Transfer Protocol) used for secure communication over a computer network 
 
 Here's a brief overview of HTTPS:
