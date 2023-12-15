@@ -176,3 +176,10 @@ DNS servers store information about domain names and their corresponding IP addr
 # caching 
 - To improve efficiency and reduce the load on DNS servers, DNS resolvers and clients often cache DNS responses. Cached information can be used to quickly resolve subsequent requests for the same domain.
 
+# DNS Records:
+DNS records are data entries associated with domain names. Common types of DNS records include:
+
+- A (Address) Record : Maps a domain to an IPv4 address.
+- CNAME : Alias of one domain to another.
+- MX : Specifies mail servers for the domain.
+- NS : Identifies authoritative DNS servers for the domain.
