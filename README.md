@@ -123,4 +123,4 @@ DELETE: Request the removal of a resource.
 
 
 # Headers:
-Both requests and responses include headers, which provide additional information about the request or response. Headers can include details like content type, length, date, and more.
+Both requests and responses include headers, which provide additional information about the request or response. Headers can include details like content type, length, date, and more
