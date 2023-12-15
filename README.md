@@ -112,6 +112,7 @@ http : It is an application layer protocol that allows for the transfer of vario
 # Here are some features that HTTP has 
 - HTTP is stateless : mean any request from client to server is standalone request
 - HTTP methods :
+
 GET: Retrieve data from the server.
 
 POST: Submit data to be processed to a specified resource.
