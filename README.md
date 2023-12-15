@@ -169,7 +169,10 @@ The DNS hierarchy is organized into levels. The rightmost label of a domain is t
 When you enter a domain name in a web browser, your device initiates a DNS resolution process to find the corresponding IP address. The process involves multiple steps, including querying DNS servers, starting from the root DNS servers, then moving to TLD servers, and finally reaching authoritative DNS servers for the specific domain.
 - DNS Servers:
 DNS servers store information about domain names and their corresponding IP addresses.
+
 - Root DNS Servers: The starting point of the DNS hierarchy.
 - TLD DNS Servers: Handle information about top-level domains.
 - Authoritative DNS Servers: Store specific domain information
+# caching 
+- To improve efficiency and reduce the load on DNS servers, DNS resolvers and clients often cache DNS responses. Cached information can be used to quickly resolve subsequent requests for the same domain.
 
