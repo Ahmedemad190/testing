@@ -83,8 +83,8 @@ if u done tagging push the tag to remote
 ```
 git push origin <tag-name>
 ```
-| Command | Description | | testing |
-| --- | --- | ---|
+| Command | Description | 
+| --- | --- | 
 | git clone <URL> | clone ur local to remote  | 
 |git init <repo_name>| create a repo |
 | git status | List all new or modified files |
