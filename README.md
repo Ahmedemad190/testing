@@ -85,7 +85,7 @@ git push origin <tag-name>
 ```
 | Command | Description |
 | --- | --- |
-| git clone <URL> | clone ur local to remote  | | testing for doc |
+| git clone <URL> | clone ur local to remote  | 
 |git init <repo_name>| create a repo |
 | git status | List all new or modified files |
 | git add | command put the fiels into staging area to be tracked |
@@ -102,7 +102,7 @@ when u are done with ur new branch u need to merge the branches by| git merge so
 |if u done tagging push the tag to remote  |  git push origin <tag-name> |
 |fetch changes  | git pull <url>|
 | git stash  | command is used to temporarily save changes that you don't want to commit at the moment |
-| git stash pop |  to apply changes from last stash it's oppiste of git stash |
+| git stash pop |  to apply changes from last stash it's oppiste of git stash | | testing |
 
 
 # Essential protocols  
