@@ -85,7 +85,7 @@ git push origin <tag-name>
 ```
 | Command | Description |
 | --- | --- |
-| git clone <URL> | clone ur local to remote  |
+| git clone <URL> | clone ur local to remote  | | testing for doc |
 |git init <repo_name>| create a repo |
 | git status | List all new or modified files |
 | git add | command put the fiels into staging area to be tracked |
