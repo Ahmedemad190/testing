@@ -228,3 +228,6 @@ scp [options] [source] [destination]
 ```
 # :warning: reserve proxy
 A server or piece of software that stands in between client devices and a web server is called a reverse proxy. Serving as the server's representative, it takes requests from clients and sends them to the intended web server. The direction of communication is the primary difference between a reverse proxy and a standard (forward) proxy.
+
+# :warning: Forward proxy
+A forward proxy, which is also commonly called a "proxy server," is a software program or server that serves as a middleman between client devices (such web browsers) and the internet. A client sends a request to the forward proxy server, which on the client's behalf passes it to the target server, in order to obtain the resource via the internet. After that, the proxy server receives the response from the destination server and forwards it to the client.
