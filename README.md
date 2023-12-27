@@ -216,4 +216,9 @@ This layer is responsible for the establishment of connection, maintenance of se
 The presentation layer is also called the Translation layer. The data from the application layer is extracted here and manipulated as per the required format to transmit over the network. ___used protocols__ SSL/TLS
 
 - Application Layer – Layer 7
-At the very top of the OSI Reference Model stack of layers, we find the Application layer which is implemented by the network applications. These applications produce the data, which has to be transferred over the network. This layer also serves as a window for the application services to access the network and for displaying the received information to the user ___used protols___ SMTP HTTP 
+At the very top of the OSI Reference Model stack of layers, we find the Application layer which is implemented by the network applications. These applications produce the data, which has to be transferred over the network. This layer also serves as a window for the application services to access the network and for displaying the received information to the user ___used protols___ SMTP HTTP
+
+
+## :warning: SCP Network 
+
+SCP is frequently used for secure file transfers, particularly when files need to be moved securely across a network between systems. System administrators and developers frequently use it to safely move files to and from remote servers.
