@@ -222,3 +222,8 @@ At the very top of the OSI Reference Model stack of layers, we find the Applicat
 ## :warning: SCP Network 
 
 SCP is frequently used for secure file transfers, particularly when files need to be moved securely across a network between systems. System administrators and developers frequently use it to safely move files to and from remote servers.
+
+```
+scp [options] [source] [destination]
+```
+
