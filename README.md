@@ -234,4 +234,4 @@ A forward proxy, which is also commonly called a "proxy server," is a software p
 # :warning: Linux file command 
 | Command | Description | 
 | --- | --- | 
-|mkdir [directory_name] | |	Create a new directory. |
+|mkdir [directory_name]| |Create a new directory.|
