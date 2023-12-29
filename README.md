@@ -231,3 +231,7 @@ A server or piece of software that stands in between client devices and a web se
 
 # :warning: Forward proxy
 A forward proxy, which is also commonly called a "proxy server," is a software program or server that serves as a middleman between client devices (such web browsers) and the internet. A client sends a request to the forward proxy server, which on the client's behalf passes it to the target server, in order to obtain the resource via the internet. After that, the proxy server receives the response from the destination server and forwards it to the client.
+# :warning: Linux file command 
+| Command | Description | 
+| --- | --- | 
+| | | |
