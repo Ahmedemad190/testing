@@ -235,4 +235,14 @@ A forward proxy, which is also commonly called a "proxy server," is a software p
 | Command | Description | 
 | --- | --- | 
 | mkdir | create a new directory  | 
-|rm file_name | create a repo |
+|rm <file_name> | create a repo |
+| mkdir | create a new directory  | 
+|rm -r directory_name	 | 	Remove a directory recursively. |
+| mkdir | create a new directory  | 
+|cp source_file destination_file	 | 	Copy the contents of one file to another file using the cp command. |
+| cp -r <source_directory> <destination_directory>	 | Move or rename files or directories.| 
+|mv <source_file> <destination_file> | create a repo |
+| touch <file_name>| Create a new file using touch. | 
+|cat <file_name>	 | Show the contents of a file |
+| head <file_name>	| Show the first ten lines of a file. | 
+|tail <file_name>	 |Show the last ten lines of a file with the tail command |
