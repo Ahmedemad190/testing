@@ -234,5 +234,5 @@ A forward proxy, which is also commonly called a "proxy server," is a software p
 # :warning: Linux file command 
 | Command | Description | 
 | --- | --- | 
-| git clone <URL> | clone ur local to remote  | 
-|git init <repo_name>| create a repo |
+| mkdir | create a new directory  | 
+|rm file_name | create a repo |
