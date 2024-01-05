@@ -231,6 +231,19 @@ A server or piece of software that stands in between client devices and a web se
 
 # :warning: Forward proxy
 A forward proxy, which is also commonly called a "proxy server," is a software program or server that serves as a middleman between client devices (such web browsers) and the internet. A client sends a request to the forward proxy server, which on the client's behalf passes it to the target server, in order to obtain the resource via the internet. After that, the proxy server receives the response from the destination server and forwards it to the client.
+
+# You may ask yourself what is the key differenece between forward proxy and reverse proxy 
+The key difference between a forward proxy and a reverse proxy lies in their primary functions and how they interact with clients and servers: 
+Direction of Communication:
+
+Forward Proxy: Acts on behalf of clients to access resources from the internet. It sits between client devices and the internet, forwarding requests from clients to the server and then returning the server's response to the clients.
+Reverse Proxy: Acts on behalf of servers to handle requests from clients. It sits between client devices and the server, forwarding client requests to the appropriate server and returning the server's response to the clients.
+
+Security:
+Forward Proxy: Often used to enhance security by inspecting and filtering outgoing traffic. It can be employed to enforce security policies and protect clients from malicious content.
+Reverse Proxy: Can provide an additional layer of security by hiding the internal server structure from external clients and handling tasks like SSL encryption, protecting backend servers from direct exposure to the internet.
+
+
 # :warning: Linux file commands 
 | Command | Description | 
 | --- | --- | 
