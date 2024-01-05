@@ -260,16 +260,18 @@ Reverse Proxy: Can provide an additional layer of security by hiding the interna
 | head <file_name>	| Show the first ten lines of a file. | 
 |tail <file_name>	 |Show the last ten lines of a file with the tail command |
 # :warning: System Based Commands 
-|uname | Displays system information: kernel version, machine type, and more.| 
-|uname -r	 | Displays the running Linux kernel's release version.| 
-|hostname -i		 | Displays the IP address of the current host.| 
-|last reboot		 | Shows last reboot times and durations in logs.| 
-|date	 | Displays the current date and time information.| 
-|timedatectl	 | Displays detailed system clock and time zone information.| 
-|cal |  Displays a simple calendar of the current month.| 
-| w		 | Shows who is logged on and their activity.| 
-|whoami	| Displays the username of the current user.| 
-|finger username		| Displays information about a user named 'username'.| 
+| Command | Description | 
+| --- | --- | 
+| uname | Displays system information: kernel version, machine type, and more.| 
+| uname -r | Displays the running Linux kernel's release version.| 
+| hostname -i | Displays the IP address of the current host.| 
+| last reboot | Shows last reboot times and durations in logs.| 
+| date | Displays the current date and time information.| 
+| timedatectl	| Displays detailed system clock and time zone information.| 
+| cal |  Displays a simple calendar of the current month.| 
+| w	| Shows who is logged on and their activity.| 
+| whoami | Displays the username of the current user.| 
+| finger username	| Displays information about a user named 'username'.| 
 
 
 
