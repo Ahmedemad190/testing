@@ -277,6 +277,6 @@ Reverse Proxy: Can provide an additional layer of security by hiding the interna
 
 | Command | Description | 
 | --- | --- | 
-| chmod | | Change file permissions.  chmod u+rwx file.txt grants read, write, and execute permissions to the owner of the file.|
+| chmod | | Change file permissions chmod u+rwx file.txt grants read, write, and execute permissions to the owner of the file. |
 
 
