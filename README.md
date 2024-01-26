@@ -278,5 +278,6 @@ Reverse Proxy: Can provide an additional layer of security by hiding the interna
 | Command | Description | 
 | --- | --- | 
 | chmod | Change file permissions chmod u+rwx file.txt grants read, write, and execute permissions to the owner of the file. |
-
-
+| chown	| Change file ownership chown user file.txt changes the owner of “file.txt” to the specified user. |
+| chgrp	| Change group ownership. chgrp group file.txt changes the group ownership of “file.txt” to the specified group. |
+| umask	| umask 022 sets the default file permissions to read and write for the owner, and read-only for group and others.|
