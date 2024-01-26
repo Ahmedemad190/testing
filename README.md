@@ -273,7 +273,10 @@ Reverse Proxy: Can provide an additional layer of security by hiding the interna
 | whoami | Displays the username of the current user.| 
 | finger username	| Displays information about a user named 'username'.| 
 
+# :warning: File Permission Commands
 
-
+| Command | Description | 
+| --- | --- | 
+| chmod | | Change file permissions.  chmod u+rwx file.txt grants read, write, and execute permissions to the owner of the file.|
 
 
