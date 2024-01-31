@@ -281,3 +281,5 @@ Reverse Proxy: Can provide an additional layer of security by hiding the interna
 | chown	| Change file ownership chown user file.txt changes the owner of “file.txt” to the specified user. |
 | chgrp	| Change group ownership. chgrp group file.txt changes the group ownership of “file.txt” to the specified group. |
 | umask	| umask 022 sets the default file permissions to read and write for the owner, and read-only for group and others.|
+# Software development life cycle (SDLC) :
+is a structured process that is used to design, develop, and test good-quality software. SDLC, or software development life cycle, is a methodology that defines the entire procedure of software development step-by-step.
