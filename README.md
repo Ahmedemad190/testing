@@ -282,8 +282,5 @@ Reverse Proxy: Can provide an additional layer of security by hiding the interna
 | chgrp	| Change group ownership. chgrp group file.txt changes the group ownership of “file.txt” to the specified group. |
 | umask	| umask 022 sets the default file permissions to read and write for the owner, and read-only for group and others.|
 # Software development life cycle (SDLC) :
-is a structured process that is used to design, develop, and test good-quality software. SDLC, or software development life cycle, is a methodology that defines the entire procedure of software development step-by-step.
-The goal of the SDLC life cycle model is to deliver high-quality, maintainable software that meets the user’s requirements. SDLC in software engineering models outlines the plan for each stage so that each stage of the software development model can perform its task efficiently to deliver the software at a low cost within a given time frame that meets users’ requirements.
-
-- What is Software Development Life Cycle (SDLC)? 
-SDLC is a process followed for software building within a software organization. SDLC consists of a precise plan that describes how to develop, maintain, replace, and enhance specific software. The life cycle defines a method for improving the quality of software and the all-around development process.  
+SDLC is a process followed for software building within a software organization. SDLC consists of a precise plan that describes how to develop, maintain, replace, and enhance specific software. The life cycle defines a method for improving the quality of software and the all-around development process
+  
