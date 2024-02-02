@@ -291,3 +291,6 @@ SDLC specifies the task(s) to be performed at various stages by a software engin
 
   ![Screenshot 2024-01-31 230751](https://github.com/Ahmedemad190/testing/assets/130619786/f1805c81-5dee-4eba-a740-42a5b60aaad9)
 
+
+- Stage-1: Planning and Requirement Analysis : Planning is a crucial step in everything, just as in software development. In this same stage, requirement analysis is also performed by the developers of the organization. This is attained from customer inputs, and sales department/market surveys. 
+
