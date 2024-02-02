@@ -307,5 +307,29 @@ In this stage, all the requirements for the target software are specified. These
 
 SRS is a reference for software designers to come up with the best architecture for the software. Hence, with the requirements defined in SRS, multiple designs for the product architecture are present in the Design Document Specification (DDS). 
 
-![zz](https://github.com/Ahmedemad190/testing/assets/130619786/d66568b8-55a0-49a7-a65e-6ccbd54a295b)
+![zz](https://github.com/Ahmedemad190/testing/assets/130619786/d66568b8-55a0-49a7-a65e-6ccbd54a295b)  
+
+
+
+# :warning:  Stage-4: Developing Product
+
+At this stage, the fundamental development of the product starts. For this, developers use a specific programming code as per the design in the DDS. Hence, it is important for the coders to follow the protocols set by the association. Conventional programming tools like compilers, interpreters, debuggers, etc. are also put into use at this stage. Some popular languages like C/C++, Python, Java, etc. are put into use as per the software regulations. 
+
+![qq](https://github.com/Ahmedemad190/testing/assets/130619786/ede2e77c-9c0b-4b68-96c0-70e2b6c3a90a)
+
+
+# :warning: Stage-5: Product Testing and Integration 
+
+After the development of the product, testing of the software is necessary to ensure its smooth execution. Although, minimal testing is conducted at every stage of SDLC. Therefore, at this stage, all the probable flaws are tracked, fixed, and retested. This ensures that the product confronts the quality requirements of SRS. 
+
+Documentation, Training, and Support: Software documentation is an essential part of the software development life cycle. A well-written document acts as a tool and means to information repository necessary to know about software processes, functions, and maintenance. Documentation also provides information about how to use the product. Training in an attempt to improve the current or future employee performance by increasing an employee’s ability to work through learning, usually by changing his attitude and developing his skills and understanding. 
+
+![pp](https://github.com/Ahmedemad190/testing/assets/130619786/e38fd4ee-070c-4d91-a7a5-37157c7912f6)
+
+ # :warning: Stage 6: Deployment and Maintenance of Products 
+
+ After detailed testing, the conclusive product is released in phases as per the organization’s strategy. Then it is tested in a real industrial environment. It is important to ensure its smooth performance. If it performs well, the organization sends out the product as a whole. After retrieving beneficial feedback, the company releases it as it is or with auxiliary improvements to make it further helpful for the customers. However, this alone is not enough. Therefore, along with the deployment, the product’s supervision. 
+
+ ![ee](https://github.com/Ahmedemad190/testing/assets/130619786/be561673-39e7-464c-b6d0-695bff8a9656)
+
 
