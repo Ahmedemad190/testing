@@ -429,4 +429,7 @@ First, you must think of those nine characters as three sets of three characters
 
 |Refernece| class | Description |
 | --- |---|---|
-| u | user | The user permissions apply only to the owner of the file or directory, they will not impact the actions of other users.  |
+| u | user | The user permissions apply only to the owner of the file or directory, they will not impact the actions of other users.|
+| g | group | The group permissions apply only to the group that has been assigned to the file or directory, they will not affect the actions of other users.|
+| o | others  |  The other permissions apply to all other users on the system, this is the permission group that you want to watch the most. | 
+| a |  All three | All three (owner, groups, others)| 
