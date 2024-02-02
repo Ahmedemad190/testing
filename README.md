@@ -401,3 +401,24 @@ How to Check the Permission of Files in Linux
 ```
 ls -l
 ```
+# :warning: What are the three permission groups in Linux?
+
+First, you must think of those nine characters as three sets of three characters (see the box at the bottom). Each of the three “rwx” characters refers to a different operation you can perform on the file.  
+
+- Owners: These permissions apply exclusively to the individuals who own the files or directories.
+- Groups: Permissions can be assigned to a specific group of users, impacting only those within that particular group.
+- All Users: These permissions apply universally to all users on the system, presenting the highest security risk. Assigning permissions to all users should be done cautiously to prevent potential security vulnerabilities.
+
+| Letters	 | Definition | 
+| --- | --- | 
+| r | read.| 
+| w | write|
+| x | execute |
+
+
+
+|opreator| Definition |
+| --- | --- |
+| + | Add permission  |
+| - | remove permission |
+| = | set the specific value | 
