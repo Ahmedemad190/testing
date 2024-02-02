@@ -433,3 +433,7 @@ First, you must think of those nine characters as three sets of three characters
 | g | group | The group permissions apply only to the group that has been assigned to the file or directory, they will not affect the actions of other users.|
 | o | others  |  The other permissions apply to all other users on the system, this is the permission group that you want to watch the most. | 
 | a |  All three | All three (owner, groups, others)| 
+
+- rw-: the first three characters `rw-`. This means that the owner of the file can “read” it (look at its contents) and “write” it (modify its contents). we cannot execute it because it is not a program but a text file. 
+- r-x: the second set of three characters “r-x”. This means that the members of the group can only read and execute the files. 
+- r–: The final three characters “r–” show the permissions allowed to other users who have a UserID on this Linux system. This means anyone in our Linux world can read but cannot modify or execute the files’ contents.  
