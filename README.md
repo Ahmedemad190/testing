@@ -422,3 +422,11 @@ First, you must think of those nine characters as three sets of three characters
 | + | Add permission  |
 | - | remove permission |
 | = | set the specific value | 
+
+
+
+
+
+|Refernece| class | Description |
+| --- |---|---|
+| u | user | The user permissions apply only to the owner of the file or directory, they will not impact the actions of other users.  |
