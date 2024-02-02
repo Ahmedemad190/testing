@@ -333,3 +333,17 @@ Documentation, Training, and Support: Software documentation is an essential par
  ![ee](https://github.com/Ahmedemad190/testing/assets/130619786/be561673-39e7-464c-b6d0-695bff8a9656)
 
 
+ # :warning:  What is the Agile methodology?
+ 
+Agile methodology is a project management framework that breaks projects down into several dynamic phases, commonly known as sprints. 
+The Agile framework is an iterative methodology. After every sprint, teams reflect and look back to see if there was anything that could be improved so they can adjust their strategy for the next sprint.
+
+![image](https://github.com/Ahmedemad190/testing/assets/130619786/1488c42e-ffaa-4580-8182-23289a6360be)
+
+
+## What is the Agile Manifesto?
+
+The Agile Manifesto is a document that focuses on four values and 12 principles for Agile software development. It was published in February 2001 by 17 software developers who needed an alternative to the more linear product development process.  
+
+What are the 4 pillars of Agile?
+- Individuals over processes and tools: Agile teams value team collaboration and teamwork over working independently and doing things "by the book.”
