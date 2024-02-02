@@ -347,3 +347,33 @@ The Agile Manifesto is a document that focuses on four values and 12 principles 
 
 What are the 4 pillars of Agile?
 - Individuals over processes and tools: Agile teams value team collaboration and teamwork over working independently and doing things "by the book.”
+- Working software over comprehensive documentation: The software that Agile teams develop should work. Additional work, like documentation, is not as important as developing good software.
+- Customer collaboration over contract negotiation: Customers are extremely important within the Agile methodology. Agile teams allow customers to guide where the software should go. Therefore, customer collaboration is more important than the finer details of contract negotiation.
+- Responding to change over following a plan: One of the major benefits of Agile project management is that it allows teams to be flexible. This framework allows for teams to quickly shift strategies and workflows without derailing an entire project.
+
+
+# :warning: What are the 12 Agile principles?
+
+- Satisfy customers through early, continuous improvement and delivery. When customers receive new updates regularly, they're more likely to see the changes they want within the product. This leads to happier, more satisfied customers—and more recurring revenue.
+
+- Welcome changing requirements, even late in the project. The Agile framework is all about adaptability. In iterative processes like Agile, being inflexible causes more harm than good.
+  
+- Deliver value frequently. Similar to principle #1, delivering value to your customers or stakeholders frequently makes it less likely for them to churn. 
+
+- Break the silos of your projects. Collaboration is key in the Agile framework. The goal is for people to break out of their own individual projects and collaborate together more frequently. 
+
+- Build projects around motivated individuals. Agile works best when teams are committed and actively working to achieve a goal. 
+
+- The most effective way to communicate is face-to-face. If you’re working on a distributed team, spend time communicating in ways that involve face-to-face communication like Zoom calls. 
+
+- Working software is the primary measure of progress. The most important thing that teams should strive for with the Agile framework is the product. The goal here is to prioritize functional software over everything else.
+
+- Maintain a sustainable working pace. Some aspects of Agile can be fast-paced, but it shouldn't be so fast that team members burn out. The goal is to maintain sustainability throughout the project.
+
+- Continuous excellence enhances agility. If the team develops excellent code in one sprint, they can continue to build off of it the next. Continually creating great work allows teams to move faster in the future. 
+
+- Simplicity is essential. Sometimes the simplest solution is the best solution. Agile aims to not overcomplicate things and find simple answers to complex problems. 
+
+- Self-organizing teams generate the most value. Similar to principle #5, proactive teams become valuable assets to the company as they strive to deliver value.
+
+- Regularly reflect and adjust your way of work to boost effectiveness. Retrospective meetings are a common Agile practice. It's a dedicated time for teams to look back and reflect on their performance and adapt their behaviors for the future.
