@@ -284,5 +284,10 @@ Reverse Proxy: Can provide an additional layer of security by hiding the interna
 # Software development life cycle (SDLC) :
 SDLC is a process followed for software building within a software organization. SDLC consists of a precise plan that describes how to develop, maintain, replace, and enhance specific software. The life cycle defines a method for improving the quality of software and the all-around development process
 
+# :warning: Stages of the Software Development Life Cycle
+
+SDLC specifies the task(s) to be performed at various stages by a software engineer or developer. It ensures that the end product is able to meet the customer’s expectations and fits within the overall budget. Hence, it’s vital for a software developer to have prior knowledge of this software development process. 
+
+
   ![Screenshot 2024-01-31 230751](https://github.com/Ahmedemad190/testing/assets/130619786/f1805c81-5dee-4eba-a740-42a5b60aaad9)
 
