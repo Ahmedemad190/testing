@@ -292,5 +292,20 @@ SDLC specifies the task(s) to be performed at various stages by a software engin
   ![Screenshot 2024-01-31 230751](https://github.com/Ahmedemad190/testing/assets/130619786/f1805c81-5dee-4eba-a740-42a5b60aaad9)
 
 
-- Stage-1: Planning and Requirement Analysis : Planning is a crucial step in everything, just as in software development. In this same stage, requirement analysis is also performed by the developers of the organization. This is attained from customer inputs, and sales department/market surveys. 
+- Stage-1: Planning and Requirement Analysis : Planning is a crucial step in everything, just as in software development. In this same stage, requirement analysis is also performed by the developers of the organization. This is attained from customer inputs, and sales department/market surveys.
+
+![Screenshot 2024-02-02 113031](https://github.com/Ahmedemad190/testing/assets/130619786/c49d97c4-4d8c-4e38-954e-11bac0713918)  
+
+
+# :warning: Stage-2: Defining Requirements
+
+In this stage, all the requirements for the target software are specified. These requirements get approval from customers, market analysts, and stakeholders
+
+![aa](https://github.com/Ahmedemad190/testing/assets/130619786/3ffcfdf6-525c-4021-a1f4-1940d340907c)
+
+# :warning: Stage-3: Designing Architecture
+
+SRS is a reference for software designers to come up with the best architecture for the software. Hence, with the requirements defined in SRS, multiple designs for the product architecture are present in the Design Document Specification (DDS). 
+
+![zz](https://github.com/Ahmedemad190/testing/assets/130619786/d66568b8-55a0-49a7-a65e-6ccbd54a295b)
 
