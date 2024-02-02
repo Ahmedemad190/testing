@@ -398,6 +398,6 @@ in simple language, it is a change of application that goes through the cloud wh
 # :warning: Permission in Linux 
 How to Check the Permission of Files in Linux
 
-`
+```
 ls -l
-`
+```
