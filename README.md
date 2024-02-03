@@ -445,3 +445,8 @@ The last step is to specify which file you are changing
 ```
 chmod o+x xyz.txt
 ```
+
+You can also change multiple permissions at once. For example, if you want to take all permissions away from everyone, you would type. 
+```
+chmod ugo-rwx xyz.txt
+```
