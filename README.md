@@ -436,4 +436,12 @@ First, you must think of those nine characters as three sets of three characters
 
 - rw-: the first three characters `rw-`. This means that the owner of the file can “read” it (look at its contents) and “write” it (modify its contents). we cannot execute it because it is not a program but a text file. 
 - r-x: the second set of three characters “r-x”. This means that the members of the group can only read and execute the files. 
-- r–: The final three characters “r–” show the permissions allowed to other users who have a UserID on this Linux system. This means anyone in our Linux world can read but cannot modify or execute the files’ contents.  
+- r–: The final three characters “r–” show the permissions allowed to other users who have a UserID on this Linux system. This means anyone in our Linux world can read but cannot modify or execute the files’ contents.
+Then you would type an ‘x’ to say that you are adding “execute” permission.
+```
+chmod o+x
+```
+The last step is to specify which file you are changing 
+```
+chmod o+x xyz.txt
+```
