@@ -450,3 +450,4 @@ You can also change multiple permissions at once. For example, if you want to ta
 ```
 chmod ugo-rwx xyz.txt
 ```
+And you can use this command ```chmod ug+rw,o-x abc.mp4``` to give multiple permission for user and group the same permission at once +rw and revoke the execute permission from other with -x 
