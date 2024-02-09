@@ -451,3 +451,13 @@ You can also change multiple permissions at once. For example, if you want to ta
 chmod ugo-rwx xyz.txt
 ```
 And you can use this command ```chmod ug+rw,o-x abc.mp4``` to give multiple permission for user and group the same permission at once +rw and revoke the execute permission from other with -x 
+
+
+# :warning: Process Management Commands
+
+- ps : Display running processes.	
+- top : Monitor system processes in real-time.
+- kill : Terminate a process.	
+- pkill : Terminate processes based on their name.
+- pgrep : List processes based on their name.
+- grep : used to search for specific patterns or regular expressions in text files or streams and display matching lines.
